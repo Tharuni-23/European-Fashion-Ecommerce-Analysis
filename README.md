@@ -93,9 +93,9 @@ Allows filtering by:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+The dashboard provides a comprehensive overview of sales performance, customer behavior, product profitability, and channel effectiveness.
 
----
+![Dashboard](european_fashion_dashboard.png)
 
 ## Project Outcome
 
