@@ -99,4 +99,4 @@ The dashboard provides a comprehensive overview of sales performance, customer b
 
 ## Project Outcome
 
-This dashboard provides a clear overview of sales performance and customer trends while supporting data-driven business decisions through interactive visualizations and actionable insights..
+This dashboard provides a clear overview of sales performance and customer trends while supporting data-driven business decisions through interactive visualizations and actionable insights.
